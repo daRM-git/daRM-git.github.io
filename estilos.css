@@ -2,7 +2,7 @@ body{
     /*background-color: burlywood;*/
    /*Asiganando una familia de fuentes para nuestro texto*/
    font-family: 'Courier New', Courier, monospace;
-   color: #333;
+   color: #289672;
    font-size: 1.2rem;
    line-height: 1.3em;
 
@@ -25,7 +25,7 @@ p{
 }
 
 .header{
-    background: #810000;
+    background: #289672;
     color: white;
     padding: 2rem 0; /*Agregamos relleno en proporción de 2(Arriba y abajo) y 0 a los lados*/
 
@@ -85,7 +85,7 @@ p{
 
 .footer{
     color: white;
-    background: #ce1212;
+    background: #ccc;
     padding: 2rem 0;
     text-align: center;
     margin-top: 10rem ;
